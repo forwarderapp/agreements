@@ -1,15 +1,15 @@
 # Terms of Use / User Agreement  
-**Content Forwarder**
+**forwardX**
 
 *Last updated: December 19, 2025*
 
-By downloading or using **Content Forwarder** ("Service"), you agree to these Terms of Use.
+By downloading or using **forwardX** ("Service"), you agree to these Terms of Use.
 
 ---
 
 # 1. Description of Service
 
-Content Forwarder allows users to filter incoming SMS messages and forward selected messages to an email address specified by the user.
+forwardX allows users to filter incoming SMS messages and forward selected messages to an email address specified by the user.
 
 ---
 
@@ -62,7 +62,7 @@ The Service is provided *"as is"* and *"as available"* without warranties of any
 
 # 7. Limitation of Liability
 
-To the maximum extent permitted by law, Content Forwarder shall not be liable for indirect, incidental, or consequential damages arising from use of the Service.
+To the maximum extent permitted by law, forwardX shall not be liable for indirect, incidental, or consequential damages arising from use of the Service.
 
 ---
 
