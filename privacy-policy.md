@@ -1,9 +1,9 @@
 # Privacy Policy  
-**Content Forwarder**
+**forwardX**
 
 *Last updated: December 19, 2025*
 
-This Privacy Policy explains how **Content Forwarder** ("we", "our", or "us") collects, uses, and protects your information when you use our mobile application ("Service").
+This Privacy Policy explains how **forwardX** ("we", "our", or "us") collects, uses, and protects your information when you use our mobile application ("Service").
 
 By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -11,7 +11,7 @@ By using the Service, you agree to the collection and use of information in acco
 
 # 1. Developer Information
 
-**Application Name:** Content Forwarder  
+**Application Name:** forwardX  
 **Developer Type:** Individual  
 **Contact Email:** forwarderapp.info@gmail.com  
 
@@ -21,7 +21,7 @@ By using the Service, you agree to the collection and use of information in acco
 
 ## 2.1 SMS Data
 
-Content Forwarder accesses SMS messages *only* to provide the core functionality explicitly enabled by the user.
+forwardX accesses SMS messages *only* to provide the core functionality explicitly enabled by the user.
 
 SMS data is used for:
 - Filtering messages (e.g. OTP or user-defined keywords)
@@ -120,7 +120,7 @@ We apply reasonable technical and organizational measures to protect your data. 
 
 # 10. Children’s Privacy
 
-Content Forwarder is not intended for children under the age of 13. We do not knowingly collect personal data from children.
+forwardX is not intended for children under the age of 13. We do not knowingly collect personal data from children.
 
 ---
 
